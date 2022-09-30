@@ -13,4 +13,4 @@ ViVeTool is both an example of how to use ViVe, as well as a straightforward too
 # Compatibility
 In order to use ViVe, you must be running Windows 10 build 18963 or newer.
 
-![ViVeTool Helpfile](https://i.imgur.com/PzCHEUQ.png)
+![ViVeTool Helpfile](https://github.com/taymaytomo/ViVe-master/blob/main/Compatibility.png)
