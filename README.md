@@ -24,8 +24,8 @@ In order to use ViVe, you must be running Windows 10 build 18963 or newer.
 
 - Then type the following commands in turn and enter:
 
-- ### vivetool /enable /en:37634385
-- ### vivetool /enable /en:39145991
+- ### vivetool /enable /id:37634385
+- ### vivetool /enable /id:39145991
 
 - After that restart your computer and congratulations the Tab File Explorer feature of Windows 11 22H2 is active
 
